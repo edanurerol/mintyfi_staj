@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/EXCAL%C4%B0BUR/Desktop/sms-spam-cleaning/mlruns/945111506757091997/models/m-b0ff5b5a78d14919b458dd31b4ded79f/artifacts
+creation_timestamp: 1753350118220
+experiment_id: '945111506757091997'
+last_updated_timestamp: 1753350120683
+model_id: m-b0ff5b5a78d14919b458dd31b4ded79f
+model_type: null
+name: model
+source_run_id: aaff360ee4dd432ba692e37d4130eaf9
+status: 2
+status_message: null
