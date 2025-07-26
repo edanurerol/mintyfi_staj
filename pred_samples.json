@@ -1,0 +1,7 @@
+[
+  {"text": "Ücretsiz kazandınız!", "prediction": "spam"},
+  {"text": "Yarın toplantı var.", "prediction": "ham"},
+  {"text": "Tebrikler, büyük ödül kazandınız.", "prediction": "spam"},
+  {"text": "Öğleden sonra görüşelim mi?", "prediction": "ham"},
+  {"text": "Kredi kartınız onaylandı, hemen arayın!", "prediction": "spam"}
+]
