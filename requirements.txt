@@ -1,0 +1,9 @@
+transformers==4.54.1
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+tqdm>=4.27
+regex!=2019.12.17
+requests>=2.20
+packaging>=20.0
+safetensors>=0.4.3
